@@ -1,7 +1,7 @@
 Package: RCASPAR
 Type: Package
 Title: A package for survival time prediction based on a piecewise baseline hazard Cox regression model.
-Version: 1.17.1
+Version: 1.18.0
 Date: 2010-08-23
 Author: Douaa Mugahid, Lars Kaderali
 Maintainer:Douaa Mugahid <douaa.mugahid@gmail.com>, Lars Kaderali <lars.kaderali@uni-greifswald.de>
